@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load dataset
-df = pd.read_csv("Dataset .csv")
+df = pd.read_csv("Data\Dataset .csv")
 
 # Preprocessing
 df['Cuisines'].fillna('Unknown', inplace=True)
