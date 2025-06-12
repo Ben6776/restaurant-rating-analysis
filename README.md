@@ -34,17 +34,15 @@ This project performs exploratory data analysis (EDA), feature engineering, and 
 ## 🔧 Installation
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/Ben6776/restaurant-rating-analysis.git
    cd restaurant-rating-analysis
-````
 
 2. Create and activate a virtual environment:
 
-   ```bash
    python -m venv .venv
    .venv\Scripts\activate  # On Windows
-   ```
+
 
 ## 🧠 Technologies Used
 
