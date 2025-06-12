@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv("Dataset .csv")
+df = pd.read_csv("Data\Dataset .csv")
 
 # Fill missing values if needed
 df['Cuisines'].fillna('Unknown', inplace=True)
